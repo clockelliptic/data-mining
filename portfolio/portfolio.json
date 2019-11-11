@@ -1,10 +1,25 @@
 {
-    "name": "Data Mining: Applied Statistics, Probabilities, and Algorithms",
-    "description": "Collection of Jupyter Python Notebooks studying tooling and techniques in data mining.",
-    "tags": {
-        "languages": ["python"],
-        "tooling": ["numpy", "sklearn", "pandas", "jupyter notebooks"],
-        "keywords": ["data", "mining", "statistics", "probabilities", "analysis", "web scraping", "algorithms"]
+    "name":"Data Mining: Applied Statistics, Probabilities, and Algorithms",
+    "description":"Collection of Jupyter Python Notebooks studying tooling and techniques in data mining.",
+    "tags":{
+       "languages":[
+          "python"
+       ],
+       "tooling":[
+          "numpy",
+          "sklearn",
+          "pandas",
+          "jupyter notebooks"
+       ],
+       "keywords":[
+          "data",
+          "mining",
+          "statistics",
+          "probabilities",
+          "analysis",
+          "web scraping",
+          "algorithms"
+       ]
     },
-    "n_images": 1
-}
+    "n_images":1
+ }
