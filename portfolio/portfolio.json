@@ -6,5 +6,5 @@
         "tooling": ["numpy", "sklearn", "pandas", "jupyter notebooks"],
         "keywords": ["data", "mining", "statistics", "probabilities", "analysis", "web scraping", "algorithms"]
     },
-    "n_images": 1,
+    "n_images": 1
 }
